@@ -1,0 +1,36 @@
+.header {
+  padding-top   : 50px;
+  padding-bottom: 90px;
+}
+
+.header-container {
+  display        : flex;
+  justify-content: space-between;
+  align-items    : center;
+}
+
+.header-menu {
+  display    : flex;
+  align-items: center;
+  gap        : 40px;
+  list-style : none;
+}
+
+.header-menu .menu-link {
+  color      : inherit;
+  font-weight: inherit;
+
+}
+
+.header-auth {
+  display       : flex;
+  align-items   : center;
+  gap           : 0 30px;
+  text-transform: capitalize;
+}
+
+.header-signin {
+  color      : var(--text-secondary-color);
+  font-size  : var(--fs-small);
+  font-weight: var(--fw-medium);
+}

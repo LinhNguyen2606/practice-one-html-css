@@ -1,12 +1,12 @@
 :root {
   /* Text color begin*/
-  --text-primary-color  : "#4F5665";
-  --text-secondary-color: "#0B132A";
+  --text-primary-color  : #4F5665;
+  --text-secondary-color: #0B132A;
   /* Text color end*/
 
   /* Button color begin*/
-  --btn-primary-color  : "#FFFFFF";
-  --btn-secondary-color: "#F53838";
+  --btn-primary-color  : #FFFFFF;
+  --btn-secondary-color: #F53838;
   /* Button color end*/
 
 
